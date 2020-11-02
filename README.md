@@ -63,6 +63,12 @@ pip install newlandface
 
 ## 测试代码
 
+**前提：D:\newlandface\weights 里面要先下载好模型**
+
+![QQ截图20201102195327](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102195341.jpg)
+
+
+
 ### 1.1 人脸检测代码
 
 ```python
