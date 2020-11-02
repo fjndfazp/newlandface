@@ -1,12 +1,16 @@
 Metadata-Version: 2.1
 Name: newlandface
-Version: 1.0.2
+Version: 1.0.3
 Summary: A Lightweight Face Detection and Facial Attribute Analysis Framework (Age, Gender, Emotion) for Python
 Home-page: https://github.com/fjndfazp/newlandface
 Author: fjndfazp
 Author-email: gyyzp@qq.com
 License: UNKNOWN
-Description: # newlandface
+Description: ---
+        typora-copy-images-to: upload
+        ---
+        
+        # newlandface
         [TOC]
         
         newlandface 是一个轻量级的人脸检测和多属性分析（年龄、性别、标签）分析工具，使用python语言，集成了部分开源库Dlib、mtcnn等工具，该库主要是基于Keras和TensorFlow来进行开发的。
@@ -88,7 +92,7 @@ Description: # newlandface
         cv2.waitKey()
         ```
         
-        ![facedetect](D:\Documents\GitHub\img\facedetect.jpg)
+        ![facedetect](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102193344.jpg)
         
         
         
@@ -148,7 +152,11 @@ Description: # newlandface
         cv2.waitKey()
         ```
         
-        ![facepoints_test](D:\Documents\GitHub\img\facepoints_test.jpg)
+        
+        
+        ![facepoints_test](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102193336.jpg)
+        
+        
         
         ### 1.3 人脸属性分析
         
@@ -190,7 +198,7 @@ Description: # newlandface
         cv2.waitKey()
         ```
         
-        ![faceAttr](D:\Documents\GitHub\img\faceAttr.jpg)
+        ![faceAttr](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102193325.jpg)
         
         
         

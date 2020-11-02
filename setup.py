@@ -9,7 +9,7 @@ with open("README.md", 'r', encoding="utf-8") as f:
 
 setup( 
     name='newlandface', 
-    version='1.0.2', 
+    version='1.0.3', 
     description='A Lightweight Face Detection and Facial Attribute Analysis Framework (Age, Gender, Emotion) for Python', 
     author='fjndfazp', 
     author_email='gyyzp@qq.com', 

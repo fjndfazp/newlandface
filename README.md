@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: upload
+---
+
 # newlandface
 [TOC]
 
@@ -80,7 +84,7 @@ cv2.imshow("test",image)
 cv2.waitKey()
 ```
 
-![facedetect](D:\Documents\GitHub\img\facedetect.jpg)
+![facedetect](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102193344.jpg)
 
 
 
@@ -140,7 +144,11 @@ cv2.imshow("test",image)
 cv2.waitKey()
 ```
 
-![facepoints_test](D:\Documents\GitHub\img\facepoints_test.jpg)
+
+
+![facepoints_test](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102193336.jpg)
+
+
 
 ### 1.3 人脸属性分析
 
@@ -182,7 +190,7 @@ cv2.imshow("test",image)
 cv2.waitKey()
 ```
 
-![faceAttr](D:\Documents\GitHub\img\faceAttr.jpg)
+![faceAttr](https://gitee.com/fjndfazp/picgo/raw/master/img/20201102193325.jpg)
 
 
 
