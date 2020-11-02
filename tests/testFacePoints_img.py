@@ -47,7 +47,3 @@ else:
 # detected_face = img[top:bottom, left:right]	
 
 
-
-# obj = nlface.analyze("000_0.bmp", actions = ['age', 'gender', 'race', 'emotion'])
-# #faceObjs = nlface.analyze(["img1.jpg", "img2.jpg", "img3.jpg"]) #analyzing multiple faces same time
-# print(obj["age"]," years old ", obj["dominant_race"]," ",obj["dominant_emotion"]," ", obj["gender"])
